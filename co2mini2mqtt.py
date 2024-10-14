@@ -10,7 +10,7 @@ MQTT_BROKER = '192.168.1.254'  # Ersetze mit der IP-Adresse deines MQTT-Brokers
 MQTT_PORT = 1883
 MQTT_CLIENT_ID = 'co2pi1'
 MQTT_USERNAME = 'mqtt'
-MQTT_PASSWORD = 'meinpass4mqtt#Nairolf'
+MQTT_PASSWORD = 'mqtt'
 
 # Auto-Discovery Topics für Home Assistant
 DISCOVERY_TOPIC_CO2 = 'homeassistant/sensor/co2pi1/co2/config'
